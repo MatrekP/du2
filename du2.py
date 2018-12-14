@@ -38,5 +38,5 @@ print(bbox)
 
 
 # print(json.dumps(json_map, ensure_ascii=False, indent=2))
-with open('output.geojson', 'a') as outfile:
+with open('output.geojson', 'w') as outfile:
     json.dump(json_map, outfile)
