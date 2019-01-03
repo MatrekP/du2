@@ -21,7 +21,7 @@ def calc_bbox(features):
     return minx, miny, maxx, maxy
 
 
-with open ('input.geojson', encoding='utf-8') as f:
+with open ('input.geojson', 'r', encoding='utf-8') as f:
     json_map = json.loads(f.read())
 features = json_map['features']
 # print(features)
@@ -29,8 +29,17 @@ features = json_map['features']
 
 i = 1
 for feature in features:
-    feature['properties']['cluster'] = i
+    feature['properties']['sequence'] = i
     i += 1
+
+
+print(len(features))
+if len(features) <= 50:
+    print("<= 50")
+    for feature in features:
+        feature['properties']['cluster_id'] = 1
+else:
+    print("> 50")
 
 
 bbox = list(calc_bbox(features))
