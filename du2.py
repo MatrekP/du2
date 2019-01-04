@@ -37,13 +37,13 @@ bbox = list(calculate_bbox(features))
 print(bbox)
 
 
-cluster = 1
+cluster_id = 1
 print(len(features))
 if len(features) <= 50:
     print("<= 50")
     for feature in features:
-        feature['properties']['cluster_id'] = cluster
-    cluster += 1
+        feature['properties']['cluster_id'] = cluster_id
+    cluster_id += 1
 else:
     print("> 50")
     middle = [(bbox[0] + bbox[2]) / 2, (bbox[1] + bbox[3]) / 2]
