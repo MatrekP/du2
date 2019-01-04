@@ -47,10 +47,6 @@ if len(features) <= 50:
 else:
     print("> 50")
     middle = [(bbox[0] + bbox[2]) / 2, (bbox[1] + bbox[3]) / 2]
-    # quadrant_1 = [middle[0], middle[1], bbox[2], bbox[3]]
-    # quadrant_2 = [bbox[0], middle[1], middle[0], bbox[3]]
-    # quadrant_3 = [bbox[0], bbox[1], middle[0], middle[1]]
-    # quadrant_4 = [middle[0], bbox[1], bbox[2], middle[1]]
     features1 = []
     features2 = []
     features3 = []
