@@ -21,6 +21,7 @@ def calculate_bbox(features):
     return minx, miny, maxx, maxy
 
 
+# nacte vstupni geojson
 with open ('input.geojson', 'r', encoding='utf-8') as f:
     json_map = json.loads(f.read())
 features = json_map['features']
@@ -37,15 +38,16 @@ bbox = list(calculate_bbox(features))
 print(bbox)
 
 
-cluster_id = 1
+cluster = 0
 print(len(features))
 if len(features) <= 50:
     print("<= 50")
+    cluster += 1
     for feature in features:
-        feature['properties']['cluster_id'] = cluster_id
-    cluster_id += 1
+        feature['properties']['cluster_id'] = cluster
 else:
     print("> 50")
+
     middle = [(bbox[0] + bbox[2]) / 2, (bbox[1] + bbox[3]) / 2]
     features1 = []
     features2 = []
@@ -54,16 +56,16 @@ else:
     for feature in features:
         coordinates = feature['geometry']['coordinates']
         if coordinates[0] > middle[0] and coordinates[1] > middle[1]:
-            feature['properties']['cluster_id'] = 1
+            feature['properties']['cluster_id'] = cluster + 1
             features1.append(feature)
         if coordinates[0] <= middle[0] and coordinates[1] > middle[1]:
-            feature['properties']['cluster_id'] = 2
+            feature['properties']['cluster_id'] = cluster + 2
             features2.append(feature)
         if coordinates[0] <= middle[0] and coordinates[1] <= middle[1]:
-            feature['properties']['cluster_id'] = 3
+            feature['properties']['cluster_id'] = cluster + 3
             features3.append(feature)
         if coordinates[0] > middle[0] and coordinates[1] <= middle[1]:
-            feature['properties']['cluster_id'] = 4
+            feature['properties']['cluster_id'] = cluster + 4
             features4.append(feature)
     # print(features1)
 
