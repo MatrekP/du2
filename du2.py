@@ -47,7 +47,6 @@ if len(features) <= 50:
         feature['properties']['cluster_id'] = cluster
 else:
     print("> 50")
-
     middle = [(bbox[0] + bbox[2]) / 2, (bbox[1] + bbox[3]) / 2]
     features1 = []
     features2 = []
@@ -67,6 +66,7 @@ else:
         if coordinates[0] > middle[0] and coordinates[1] <= middle[1]:
             feature['properties']['cluster_id'] = cluster + 4
             features4.append(feature)
+    cluster += 4
     # print(features1)
 
 
