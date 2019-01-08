@@ -24,7 +24,6 @@ def calculate_bbox(features):
 def quadtree(features, cluster):
     if len(features) <= 50:
         print("<= 50")
-        # cluster += 1
         for feature in features:
             feature['properties']['cluster_id'] = cluster
     else:
