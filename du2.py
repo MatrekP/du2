@@ -79,3 +79,5 @@ quadtree(features, cluster)
 # print(json.dumps(json_map, ensure_ascii=False, indent=2))
 with open('output.geojson', 'w') as outfile:
     json.dump(json_map, outfile)
+
+    
