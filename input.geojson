@@ -1,0 +1,1828 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2019-01-08T23:06:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296643707",
+        "addr:conscriptionnumber": "223",
+        "addr:housenumber": "223/18",
+        "addr:place": "Jižní Předměstí",
+        "addr:postcode": "30100",
+        "addr:street": "Rybářská",
+        "addr:streetnumber": "18",
+        "ref:ruian:addr": "24531707"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3645878,
+          49.7487372
+        ]
+      },
+      "id": "node/296643707"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296664353",
+        "addr:conscriptionnumber": "128",
+        "addr:housenumber": "128/17",
+        "addr:place": "Jižní Předměstí",
+        "addr:postcode": "30100",
+        "addr:street": "Přemyslova",
+        "addr:streetnumber": "17",
+        "ref:ruian:addr": "24530891"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3681467,
+          49.7483348
+        ]
+      },
+      "id": "node/296664353"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296666407",
+        "addr:conscriptionnumber": "216",
+        "addr:housenumber": "216/13",
+        "addr:place": "Jižní Předměstí",
+        "addr:postcode": "30100",
+        "addr:street": "Koželužská",
+        "addr:streetnumber": "13",
+        "ref:ruian:addr": "24531634"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.366534,
+          49.7490445
+        ]
+      },
+      "id": "node/296666407"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296667927",
+        "addr:conscriptionnumber": "306",
+        "addr:housenumber": "306/8",
+        "addr:place": "Jižní Předměstí",
+        "addr:postcode": "30100",
+        "addr:street": "Rybářská",
+        "addr:streetnumber": "8",
+        "ref:ruian:addr": "24532380"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.363954,
+          49.7483843
+        ]
+      },
+      "id": "node/296667927"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296669311",
+        "addr:conscriptionnumber": "134",
+        "addr:housenumber": "134/29",
+        "addr:place": "Jižní Předměstí",
+        "addr:postcode": "30100",
+        "addr:street": "Přemyslova",
+        "addr:streetnumber": "29",
+        "ref:ruian:addr": "24530948"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3673412,
+          49.7483822
+        ]
+      },
+      "id": "node/296669311"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296671809",
+        "addr:conscriptionnumber": "1025",
+        "addr:housenumber": "1025/9",
+        "addr:postcode": "30100",
+        "addr:street": "Rybářská",
+        "addr:streetnumber": "9",
+        "source:addr": "uir_adr",
+        "uir_adr:ADRESA_KOD": "24539902"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3633889,
+          49.7485764
+        ]
+      },
+      "id": "node/296671809"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296673035",
+        "addr:conscriptionnumber": "292",
+        "addr:housenumber": "292/10",
+        "addr:place": "Jižní Předměstí",
+        "addr:postcode": "30100",
+        "addr:street": "Koželužská",
+        "addr:streetnumber": "10",
+        "ref:ruian:addr": "24532266"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3666236,
+          49.7491817
+        ]
+      },
+      "id": "node/296673035"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296688996",
+        "addr:conscriptionnumber": "43",
+        "addr:housenumber": "43/12",
+        "addr:postcode": "30100",
+        "addr:street": "Pobřežní",
+        "addr:streetnumber": "12",
+        "source:addr": "uir_adr",
+        "uir_adr:ADRESA_KOD": "24530379"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3728416,
+          49.7500548
+        ]
+      },
+      "id": "node/296688996"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296696894",
+        "addr:conscriptionnumber": "187",
+        "addr:housenumber": "187/38",
+        "addr:place": "Jižní Předměstí",
+        "addr:postcode": "30100",
+        "addr:street": "Přemyslova",
+        "addr:streetnumber": "38",
+        "ref:ruian:addr": "24531391"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3652963,
+          49.7484116
+        ]
+      },
+      "id": "node/296696894"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296703253",
+        "addr:conscriptionnumber": "139",
+        "addr:housenumber": "139/11",
+        "addr:place": "Jižní Předměstí",
+        "addr:postcode": "30100",
+        "addr:street": "Přemyslova",
+        "addr:streetnumber": "11",
+        "ref:ruian:addr": "24530972"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3685837,
+          49.7483091
+        ]
+      },
+      "id": "node/296703253"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296705636",
+        "addr:conscriptionnumber": "1456",
+        "addr:housenumber": "1456/6",
+        "addr:place": "Jižní Předměstí",
+        "addr:postcode": "30100",
+        "addr:street": "Kalikova",
+        "addr:streetnumber": "6",
+        "ref:ruian:addr": "24543497"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3660451,
+          49.7488755
+        ]
+      },
+      "id": "node/296705636"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296708482",
+        "addr:conscriptionnumber": "160",
+        "addr:housenumber": "160/31",
+        "addr:place": "Jižní Předměstí",
+        "addr:postcode": "30100",
+        "addr:street": "Radčická",
+        "addr:streetnumber": "31",
+        "ref:ruian:addr": "24531162"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3669358,
+          49.7494334
+        ]
+      },
+      "id": "node/296708482"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296710509",
+        "addr:conscriptionnumber": "672",
+        "addr:housenumber": "672/11",
+        "addr:postcode": "30100",
+        "addr:street": "Rybářská",
+        "addr:streetnumber": "11",
+        "source:addr": "uir_adr",
+        "uir_adr:ADRESA_KOD": "24535991"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3637209,
+          49.7486129
+        ]
+      },
+      "id": "node/296710509"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296710777",
+        "addr:conscriptionnumber": "291",
+        "addr:housenumber": "291/12",
+        "addr:place": "Jižní Předměstí",
+        "addr:postcode": "30100",
+        "addr:street": "Koželužská",
+        "addr:streetnumber": "12",
+        "ref:ruian:addr": "24532258"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3665396,
+          49.7491851
+        ]
+      },
+      "id": "node/296710777"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296711930",
+        "addr:conscriptionnumber": "127",
+        "addr:housenumber": "127/19",
+        "addr:place": "Jižní Předměstí",
+        "addr:postcode": "30100",
+        "addr:street": "Přemyslova",
+        "addr:streetnumber": "19",
+        "ref:ruian:addr": "24530883"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3680338,
+          49.7483415
+        ]
+      },
+      "id": "node/296711930"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296718726",
+        "addr:conscriptionnumber": "132",
+        "addr:housenumber": "132/23",
+        "addr:place": "Jižní Předměstí",
+        "addr:postcode": "30100",
+        "addr:street": "Přemyslova",
+        "addr:streetnumber": "23",
+        "ref:ruian:addr": "24530921"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3677522,
+          49.748358
+        ]
+      },
+      "id": "node/296718726"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296721300",
+        "addr:housename": "Kalikovský mlýn",
+        "addr:housenumber": "60/40",
+        "addr:place": "Jižní Předměstí",
+        "addr:postcode": "30100",
+        "addr:street": "Radčická",
+        "amenity": "bar",
+        "name": "Music Cafe Mlýn",
+        "ref:ruian": "24530476",
+        "source": "cuzk:ruian",
+        "website": "http://www.kalikovak.cz",
+        "wifi": "free"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3654019,
+          49.7502807
+        ]
+      },
+      "id": "node/296721300"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296723191",
+        "addr:conscriptionnumber": "2394",
+        "addr:housenumber": "2394/4",
+        "addr:place": "Jižní Předměstí",
+        "addr:postcode": "30100",
+        "addr:street": "Radčická",
+        "addr:streetnumber": "4",
+        "ref:ruian:addr": "24553549"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3668996,
+          49.7501856
+        ]
+      },
+      "id": "node/296723191"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296731864",
+        "addr:conscriptionnumber": "159",
+        "addr:housenumber": "159/29",
+        "addr:place": "Jižní Předměstí",
+        "addr:postcode": "30100",
+        "addr:street": "Radčická",
+        "addr:streetnumber": "29",
+        "ref:ruian:addr": "24531154"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.367052,
+          49.7493589
+        ]
+      },
+      "id": "node/296731864"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296735542",
+        "addr:conscriptionnumber": "185",
+        "addr:housenumber": "185/40",
+        "addr:place": "Jižní Předměstí",
+        "addr:postcode": "30100",
+        "addr:street": "Přemyslova",
+        "addr:streetnumber": "40",
+        "ref:ruian:addr": "24531375"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3651019,
+          49.7483568
+        ]
+      },
+      "id": "node/296735542"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296743187",
+        "addr:conscriptionnumber": "173",
+        "addr:housenumber": "173/31",
+        "addr:place": "Jižní Předměstí",
+        "addr:postcode": "30100",
+        "addr:street": "sady Pětatřicátníků",
+        "addr:streetnumber": "31",
+        "ref:ruian:addr": "24531260"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3728398,
+          49.7493886
+        ]
+      },
+      "id": "node/296743187"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296743233",
+        "addr:conscriptionnumber": "148",
+        "addr:housenumber": "148/27",
+        "addr:place": "Jižní Předměstí",
+        "addr:postcode": "30100",
+        "addr:street": "Radčická",
+        "addr:streetnumber": "27",
+        "ref:ruian:addr": "24531065"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3671486,
+          49.749297
+        ]
+      },
+      "id": "node/296743233"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296743796",
+        "addr:conscriptionnumber": "228",
+        "addr:housenumber": "228/10",
+        "addr:place": "Jižní Předměstí",
+        "addr:postcode": "30100",
+        "addr:street": "Kalikova",
+        "addr:streetnumber": "10",
+        "ref:ruian:addr": "24531758"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3661086,
+          49.7492662
+        ]
+      },
+      "id": "node/296743796"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296743923",
+        "addr:conscriptionnumber": "396",
+        "addr:housenumber": "396/16",
+        "addr:place": "Jižní Předměstí",
+        "addr:postcode": "30100",
+        "addr:street": "Kalikova",
+        "addr:streetnumber": "16",
+        "ref:ruian:addr": "24533386"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3661563,
+          49.7495656
+        ]
+      },
+      "id": "node/296743923"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296746904",
+        "addr:conscriptionnumber": "195",
+        "addr:housenumber": "195/37",
+        "addr:place": "Jižní Předměstí",
+        "addr:postcode": "30100",
+        "addr:street": "Radčická",
+        "addr:streetnumber": "37",
+        "ref:ruian:addr": "24531456"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3665761,
+          49.7496638
+        ]
+      },
+      "id": "node/296746904"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296746971",
+        "addr:conscriptionnumber": "217",
+        "addr:housenumber": "217/15",
+        "addr:place": "Jižní Předměstí",
+        "addr:postcode": "30100",
+        "addr:street": "Koželužská",
+        "addr:streetnumber": "15",
+        "ref:ruian:addr": "24531642"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3663989,
+          49.749049
+        ]
+      },
+      "id": "node/296746971"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296747235",
+        "addr:conscriptionnumber": "1025",
+        "addr:housenumber": "1025/2",
+        "addr:postcode": "30100",
+        "addr:street": "Na Jíkalce",
+        "addr:streetnumber": "2",
+        "source:addr": "uir_adr",
+        "uir_adr:ADRESA_KOD": "24539911"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3633414,
+          49.7485146
+        ]
+      },
+      "id": "node/296747235"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296750212",
+        "addr:conscriptionnumber": "307",
+        "addr:housenumber": "307/19",
+        "addr:place": "Jižní Předměstí",
+        "addr:postcode": "30100",
+        "addr:street": "Koželužská",
+        "addr:streetnumber": "19",
+        "ref:ruian:addr": "24532398"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.366137,
+          49.7490578
+        ]
+      },
+      "id": "node/296750212"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296750512",
+        "addr:conscriptionnumber": "450",
+        "addr:housenumber": "450/12",
+        "addr:place": "Jižní Předměstí",
+        "addr:postcode": "30100",
+        "addr:street": "Kalikova",
+        "addr:streetnumber": "12",
+        "ref:ruian:addr": "24533921"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3661385,
+          49.7494017
+        ]
+      },
+      "id": "node/296750512"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296751352",
+        "addr:conscriptionnumber": "136",
+        "addr:housenumber": "136/1",
+        "addr:place": "Jižní Předměstí",
+        "addr:postcode": "30100",
+        "addr:street": "Koželužská",
+        "addr:streetnumber": "1",
+        "ref:ruian:addr": "24530956"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3674232,
+          49.7490058
+        ]
+      },
+      "id": "node/296751352"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296751915",
+        "addr:conscriptionnumber": "1579",
+        "addr:housenumber": "1579/6",
+        "addr:place": "Jižní Předměstí",
+        "addr:postcode": "30100",
+        "addr:street": "Koželužská",
+        "addr:streetnumber": "6",
+        "ref:ruian:addr": "24544451"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3669368,
+          49.7491691
+        ]
+      },
+      "id": "node/296751915"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296754734",
+        "addr:conscriptionnumber": "182",
+        "addr:housenumber": "182/23",
+        "addr:place": "Jižní Předměstí",
+        "addr:postcode": "30100",
+        "addr:street": "Radčická",
+        "addr:streetnumber": "23",
+        "ref:ruian:addr": "24531341"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3672861,
+          49.749209
+        ]
+      },
+      "id": "node/296754734"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296761012",
+        "addr:conscriptionnumber": "147",
+        "addr:housenumber": "147/25",
+        "addr:place": "Jižní Předměstí",
+        "addr:postcode": "30100",
+        "addr:street": "Radčická",
+        "addr:streetnumber": "25",
+        "ref:ruian:addr": "24531057"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3672335,
+          49.7492427
+        ]
+      },
+      "id": "node/296761012"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296761727",
+        "addr:conscriptionnumber": "100",
+        "addr:housenumber": "100/15",
+        "addr:postcode": "30100",
+        "addr:street": "Pobřežní",
+        "addr:streetnumber": "15",
+        "source:addr": "uir_adr",
+        "uir_adr:ADRESA_KOD": "24530689"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3714289,
+          49.7497982
+        ]
+      },
+      "id": "node/296761727"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296764008",
+        "addr:conscriptionnumber": "228",
+        "addr:housenumber": "228/18",
+        "addr:place": "Jižní Předměstí",
+        "addr:postcode": "30100",
+        "addr:street": "Koželužská",
+        "addr:streetnumber": "18",
+        "ref:ruian:addr": "24531740"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3661819,
+          49.7491994
+        ]
+      },
+      "id": "node/296764008"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296764587",
+        "addr:conscriptionnumber": "213",
+        "addr:housenumber": "213/39",
+        "addr:place": "Jižní Předměstí",
+        "addr:postcode": "30100",
+        "addr:street": "Radčická",
+        "addr:streetnumber": "39",
+        "ref:ruian:addr": "24531596"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3664232,
+          49.7497617
+        ]
+      },
+      "id": "node/296764587"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296764977",
+        "addr:conscriptionnumber": "193",
+        "addr:housenumber": "193/9",
+        "addr:place": "Jižní Předměstí",
+        "addr:postcode": "30100",
+        "addr:street": "Koželužská",
+        "addr:streetnumber": "9",
+        "ref:ruian:addr": "24531448"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3668385,
+          49.7490343
+        ]
+      },
+      "id": "node/296764977"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296768202",
+        "addr:conscriptionnumber": "157",
+        "addr:housenumber": "157/5",
+        "addr:postcode": "30100",
+        "addr:street": "Koželužská",
+        "addr:streetnumber": "5",
+        "source:addr": "uir_adr",
+        "uir_adr:ADRESA_KOD": "24531138"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3670707,
+          49.7490182
+        ]
+      },
+      "id": "node/296768202"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296770401",
+        "addr:conscriptionnumber": "254",
+        "addr:housenumber": "254/17",
+        "addr:place": "Jižní Předměstí",
+        "addr:postcode": "30100",
+        "addr:street": "Koželužská",
+        "addr:streetnumber": "17",
+        "ref:ruian:addr": "24531979"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3662294,
+          49.7490547
+        ]
+      },
+      "id": "node/296770401"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296775217",
+        "addr:conscriptionnumber": "183",
+        "addr:housenumber": "183/42",
+        "addr:place": "Jižní Předměstí",
+        "addr:postcode": "30100",
+        "addr:street": "Přemyslova",
+        "addr:streetnumber": "42",
+        "ref:ruian:addr": "24531359"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3649568,
+          49.748316
+        ]
+      },
+      "id": "node/296775217"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296777508",
+        "addr:conscriptionnumber": "140",
+        "addr:housenumber": "140/13",
+        "addr:place": "Jižní Předměstí",
+        "addr:postcode": "30100",
+        "addr:street": "Přemyslova",
+        "addr:streetnumber": "13",
+        "ref:ruian:addr": "24530981"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3684684,
+          49.7483159
+        ]
+      },
+      "id": "node/296777508"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296781802",
+        "addr:conscriptionnumber": "146",
+        "addr:housenumber": "146/3",
+        "addr:place": "Jižní Předměstí",
+        "addr:postcode": "30100",
+        "addr:street": "Koželužská",
+        "addr:streetnumber": "3",
+        "ref:ruian:addr": "24531049"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.367217,
+          49.7490082
+        ]
+      },
+      "id": "node/296781802"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296785568",
+        "addr:conscriptionnumber": "398",
+        "addr:housenumber": "398/14",
+        "addr:place": "Jižní Předměstí",
+        "addr:postcode": "30100",
+        "addr:street": "Kalikova",
+        "addr:streetnumber": "14",
+        "ref:ruian:addr": "24533408"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3661464,
+          49.7494756
+        ]
+      },
+      "id": "node/296785568"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296786289",
+        "addr:conscriptionnumber": "113",
+        "addr:housenumber": "113/15",
+        "addr:place": "Jižní Předměstí",
+        "addr:postcode": "30100",
+        "addr:street": "Přemyslova",
+        "addr:streetnumber": "15",
+        "ref:ruian:addr": "24530824"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3682968,
+          49.748326
+        ]
+      },
+      "id": "node/296786289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296786869",
+        "addr:conscriptionnumber": "133",
+        "addr:housenumber": "133/27",
+        "addr:place": "Jižní Předměstí",
+        "addr:postcode": "30100",
+        "addr:street": "Přemyslova",
+        "addr:streetnumber": "27",
+        "ref:ruian:addr": "24530930"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.36747,
+          49.7483746
+        ]
+      },
+      "id": "node/296786869"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296787005",
+        "addr:conscriptionnumber": "55",
+        "addr:housenumber": "55/11",
+        "addr:place": "Jižní Předměstí",
+        "addr:postcode": "30100",
+        "addr:street": "Jízdecká",
+        "addr:streetnumber": "11",
+        "ref:ruian:addr": "24530441"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3711974,
+          49.7493812
+        ]
+      },
+      "id": "node/296787005"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296794457",
+        "addr:conscriptionnumber": "215",
+        "addr:housenumber": "215/11",
+        "addr:place": "Jižní Předměstí",
+        "addr:postcode": "30100",
+        "addr:street": "Koželužská",
+        "addr:streetnumber": "11",
+        "ref:ruian:addr": "24531626"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3666801,
+          49.7490396
+        ]
+      },
+      "id": "node/296794457"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296796234",
+        "addr:conscriptionnumber": "388",
+        "addr:housenumber": "388/18",
+        "addr:place": "Jižní Předměstí",
+        "addr:postcode": "30100",
+        "addr:street": "Kalikova",
+        "addr:streetnumber": "18",
+        "ref:ruian:addr": "24533319"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3661737,
+          49.7496595
+        ]
+      },
+      "id": "node/296796234"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296797029",
+        "addr:conscriptionnumber": "349",
+        "addr:housenumber": "349/14",
+        "addr:place": "Jižní Předměstí",
+        "addr:postcode": "30100",
+        "addr:street": "Koželužská",
+        "addr:streetnumber": "14",
+        "ref:ruian:addr": "24532908"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.366447,
+          49.7491888
+        ]
+      },
+      "id": "node/296797029"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296798166",
+        "addr:conscriptionnumber": "143",
+        "addr:housenumber": "143/9",
+        "addr:place": "Jižní Předměstí",
+        "addr:postcode": "30100",
+        "addr:street": "Přemyslova",
+        "addr:streetnumber": "9",
+        "ref:ruian:addr": "24531014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3687519,
+          49.7482993
+        ]
+      },
+      "id": "node/296798166"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296801468",
+        "addr:conscriptionnumber": "225",
+        "addr:housenumber": "225/8",
+        "addr:place": "Jižní Předměstí",
+        "addr:postcode": "30100",
+        "addr:street": "Koželužská",
+        "addr:streetnumber": "8",
+        "ref:ruian:addr": "24531723"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3667651,
+          49.749176
+        ]
+      },
+      "id": "node/296801468"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296807803",
+        "addr:conscriptionnumber": "298",
+        "addr:housenumber": "298/1",
+        "addr:place": "Jižní Předměstí",
+        "addr:postcode": "30100",
+        "addr:street": "Kalikova",
+        "addr:streetnumber": "1",
+        "ref:ruian:addr": "24532312"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3656839,
+          49.748534
+        ]
+      },
+      "id": "node/296807803"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296811981",
+        "addr:conscriptionnumber": "190",
+        "addr:housenumber": "190/35",
+        "addr:place": "Jižní Předměstí",
+        "addr:postcode": "30100",
+        "addr:street": "Radčická",
+        "addr:streetnumber": "35",
+        "ref:ruian:addr": "24531421"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3666938,
+          49.7495884
+        ]
+      },
+      "id": "node/296811981"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296813221",
+        "addr:conscriptionnumber": "137",
+        "addr:housenumber": "137/25",
+        "addr:place": "Jižní Předměstí",
+        "addr:postcode": "30100",
+        "addr:street": "Přemyslova",
+        "addr:streetnumber": "25",
+        "ref:ruian:addr": "24530964"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3675899,
+          49.7483676
+        ]
+      },
+      "id": "node/296813221"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296821237",
+        "addr:conscriptionnumber": "307",
+        "addr:housenumber": "307/8",
+        "addr:place": "Jižní Předměstí",
+        "addr:postcode": "30100",
+        "addr:street": "Kalikova",
+        "addr:streetnumber": "8",
+        "ref:ruian:addr": "24532401"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3660553,
+          49.7490066
+        ]
+      },
+      "id": "node/296821237"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296828711",
+        "addr:conscriptionnumber": "100",
+        "addr:housenumber": "100/15",
+        "addr:place": "Jižní Předměstí",
+        "addr:postcode": "30100",
+        "addr:street": "Jízdecká",
+        "addr:streetnumber": "15",
+        "ref:ruian:addr": "24530697"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.371567,
+          49.7497481
+        ]
+      },
+      "id": "node/296828711"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296829392",
+        "addr:conscriptionnumber": "224",
+        "addr:housenumber": "224/16",
+        "addr:place": "Jižní Předměstí",
+        "addr:postcode": "30100",
+        "addr:street": "Rybářská",
+        "addr:streetnumber": "16",
+        "ref:ruian:addr": "24531715"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3644593,
+          49.7486841
+        ]
+      },
+      "id": "node/296829392"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296831703",
+        "addr:conscriptionnumber": "213",
+        "addr:housenumber": "213/20",
+        "addr:place": "Jižní Předměstí",
+        "addr:postcode": "30100",
+        "addr:street": "Kalikova",
+        "addr:streetnumber": "20",
+        "ref:ruian:addr": "24531600"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3662583,
+          49.7497729
+        ]
+      },
+      "id": "node/296831703"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296831810",
+        "addr:conscriptionnumber": "189",
+        "addr:housenumber": "189/33",
+        "addr:place": "Jižní Předměstí",
+        "addr:postcode": "30100",
+        "addr:street": "Radčická",
+        "addr:streetnumber": "33",
+        "ref:ruian:addr": "24531413"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.366837,
+          49.7494967
+        ]
+      },
+      "id": "node/296831810"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296837697",
+        "addr:conscriptionnumber": "256",
+        "addr:housenumber": "256/6",
+        "addr:place": "Jižní Předměstí",
+        "addr:postcode": "30100",
+        "addr:street": "Rybářská",
+        "addr:streetnumber": "6",
+        "ref:ruian:addr": "24531987"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3639881,
+          49.7483105
+        ]
+      },
+      "id": "node/296837697"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296837751",
+        "addr:conscriptionnumber": "2220",
+        "addr:housenumber": "2220/10",
+        "addr:postcode": "30100",
+        "addr:street": "Pobřežní",
+        "addr:streetnumber": "10",
+        "source:addr": "uir_adr",
+        "uir_adr:ADRESA_KOD": "24551759"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3733235,
+          49.7500423
+        ]
+      },
+      "id": "node/296837751"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296843812",
+        "addr:conscriptionnumber": "130",
+        "addr:housenumber": "130/21",
+        "addr:place": "Jižní Předměstí",
+        "addr:postcode": "30100",
+        "addr:street": "Přemyslova",
+        "addr:streetnumber": "21",
+        "ref:ruian:addr": "24530905"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3679242,
+          49.7483479
+        ]
+      },
+      "id": "node/296843812"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296845170",
+        "addr:conscriptionnumber": "1033",
+        "addr:housenumber": "1033/1",
+        "addr:postcode": "30100",
+        "addr:street": "Na Jíkalce",
+        "addr:streetnumber": "1",
+        "source:addr": "uir_adr",
+        "uir_adr:ADRESA_KOD": "24540021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3633092,
+          49.7483074
+        ]
+      },
+      "id": "node/296845170"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296845557",
+        "addr:conscriptionnumber": "369",
+        "addr:housenumber": "369/16",
+        "addr:place": "Jižní Předměstí",
+        "addr:postcode": "30100",
+        "addr:street": "Koželužská",
+        "addr:streetnumber": "16",
+        "ref:ruian:addr": "24533122"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.366329,
+          49.7491935
+        ]
+      },
+      "id": "node/296845557"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2526934010",
+        "addr:city": "Plzeň",
+        "addr:conscriptionnumber": "1217",
+        "addr:country": "CZ",
+        "addr:housenumber": "1217/43",
+        "addr:postcode": "30100",
+        "addr:street": "Lochotínská",
+        "addr:streetnumber": "43",
+        "is_in": "Severní Předměstí, Plzeň, Plzeňský kraj, CZ",
+        "ref:ruian": "25934929",
+        "source:addr": "ruian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3732262,
+          49.7529662
+        ]
+      },
+      "id": "node/2526934010"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2526934306",
+        "addr:city": "Plzeň",
+        "addr:conscriptionnumber": "126",
+        "addr:country": "CZ",
+        "addr:housenumber": "126/45",
+        "addr:postcode": "30100",
+        "addr:street": "Lochotínská",
+        "addr:streetnumber": "45",
+        "is_in": "Severní Předměstí, Plzeň, Plzeňský kraj, CZ",
+        "ref:ruian": "25966456",
+        "source:addr": "ruian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3729439,
+          49.7529189
+        ]
+      },
+      "id": "node/2526934306"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2526934875",
+        "addr:city": "Plzeň",
+        "addr:conscriptionnumber": "1407",
+        "addr:country": "CZ",
+        "addr:housenumber": "1407/50",
+        "addr:postcode": "30100",
+        "addr:street": "Radčická",
+        "addr:streetnumber": "50",
+        "is_in": "Severní Předměstí, Plzeň, Plzeňský kraj, CZ",
+        "ref:ruian": "26661128",
+        "source:addr": "ruian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3618308,
+          49.7524276
+        ]
+      },
+      "id": "node/2526934875"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2526940908",
+        "addr:city": "Plzeň",
+        "addr:conscriptionnumber": "2775",
+        "addr:country": "CZ",
+        "addr:housenumber": "2775/4a",
+        "addr:postcode": "30100",
+        "addr:street": "Na Jíkalce",
+        "addr:streetnumber": "4a",
+        "is_in": "Jižní Předměstí, Plzeň, Plzeňský kraj, CZ",
+        "ref:ruian": "25538195",
+        "source:addr": "ruian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3619449,
+          49.7484811
+        ]
+      },
+      "id": "node/2526940908"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2526940992",
+        "addr:city": "Plzeň",
+        "addr:conscriptionnumber": "2794",
+        "addr:country": "CZ",
+        "addr:housenumber": "2794/6",
+        "addr:postcode": "30100",
+        "addr:street": "Radčická",
+        "addr:streetnumber": "6",
+        "is_in": "Jižní Předměstí, Plzeň, Plzeňský kraj, CZ",
+        "ref:ruian": "25786075",
+        "source:addr": "ruian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3664219,
+          49.7502784
+        ]
+      },
+      "id": "node/2526940992"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2526941337",
+        "addr:city": "Plzeň",
+        "addr:conscriptionnumber": "2861",
+        "addr:country": "CZ",
+        "addr:housenumber": "2861/2",
+        "addr:postcode": "30100",
+        "addr:street": "Radčická",
+        "addr:streetnumber": "2",
+        "is_in": "Jižní Předměstí, Plzeň, Plzeňský kraj, CZ",
+        "ref:ruian": "27289001",
+        "source:addr": "ruian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3695517,
+          49.7496293
+        ]
+      },
+      "id": "node/2526941337"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2526941417",
+        "addr:city": "Plzeň",
+        "addr:conscriptionnumber": "2880",
+        "addr:country": "CZ",
+        "addr:housenumber": "2880/10",
+        "addr:place": "Jižní Předměstí",
+        "addr:postcode": "30100",
+        "addr:street": "Rybářská",
+        "addr:streetnumber": "10",
+        "ref:ruian:addr": "27669998"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3640009,
+          49.7484844
+        ]
+      },
+      "id": "node/2526941417"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2526941703",
+        "addr:city": "Plzeň",
+        "addr:conscriptionnumber": "2956",
+        "addr:country": "CZ",
+        "addr:housenumber": "2956",
+        "addr:place": "Jižní Předměstí",
+        "addr:postcode": "30100",
+        "ref:ruian:addr": "24557617"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3613588,
+          49.7485224
+        ]
+      },
+      "id": "node/2526941703"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2526943968",
+        "addr:city": "Plzeň",
+        "addr:conscriptionnumber": "55",
+        "addr:country": "CZ",
+        "addr:housenumber": "55/17",
+        "addr:postcode": "30100",
+        "addr:street": "Pobřežní",
+        "addr:streetnumber": "17",
+        "is_in": "Jižní Předměstí, Plzeň, Plzeňský kraj, CZ",
+        "ref:ruian": "41937643",
+        "source:addr": "ruian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3707018,
+          49.749505
+        ]
+      },
+      "id": "node/2526943968"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2526947686",
+        "addr:city": "Plzeň",
+        "addr:country": "CZ",
+        "addr:housenumber": "ev.108/52",
+        "addr:postcode": "30100",
+        "addr:provisionalnumber": "108",
+        "addr:street": "Radčická",
+        "addr:streetnumber": "52",
+        "is_in": "Severní Předměstí, Plzeň, Plzeňský kraj, CZ",
+        "ref:ruian": "24488071",
+        "source:addr": "ruian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3623276,
+          49.7524988
+        ]
+      },
+      "id": "node/2526947686"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2526952123",
+        "addr:city": "Plzeň",
+        "addr:country": "CZ",
+        "addr:housenumber": "ev.174/76",
+        "addr:postcode": "30100",
+        "addr:provisionalnumber": "174",
+        "addr:street": "Radčická",
+        "addr:streetnumber": "76",
+        "is_in": "Severní Předměstí, Plzeň, Plzeňský kraj, CZ",
+        "ref:ruian": "24488372",
+        "source:addr": "ruian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3603094,
+          49.7524711
+        ]
+      },
+      "id": "node/2526952123"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2526952329",
+        "addr:city": "Plzeň",
+        "addr:country": "CZ",
+        "addr:housenumber": "ev.175/80",
+        "addr:postcode": "30100",
+        "addr:provisionalnumber": "175",
+        "addr:street": "Radčická",
+        "addr:streetnumber": "80",
+        "is_in": "Severní Předměstí, Plzeň, Plzeňský kraj, CZ",
+        "ref:ruian": "24488381",
+        "source:addr": "ruian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3600478,
+          49.7525597
+        ]
+      },
+      "id": "node/2526952329"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2526962369",
+        "addr:city": "Plzeň",
+        "addr:country": "CZ",
+        "addr:housenumber": "ev.6/78",
+        "addr:postcode": "30100",
+        "addr:provisionalnumber": "6",
+        "addr:street": "Radčická",
+        "addr:streetnumber": "78",
+        "is_in": "Severní Předměstí, Plzeň, Plzeňský kraj, CZ",
+        "ref:ruian": "24487741",
+        "source:addr": "ruian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.360052,
+          49.7524508
+        ]
+      },
+      "id": "node/2526962369"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2985110996",
+        "addr:conscriptionnumber": "60",
+        "addr:housenumber": "60/40",
+        "addr:place": "Jižní Předměstí",
+        "addr:postcode": "30100",
+        "addr:street": "Radčická",
+        "addr:streetnumber": "40",
+        "ref:ruian:addr": "24530476"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3653367,
+          49.7503564
+        ]
+      },
+      "id": "node/2985110996"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3035570187",
+        "addr:conscriptionnumber": "2971",
+        "addr:housenumber": "2971/30",
+        "addr:place": "Jižní Předměstí",
+        "addr:postcode": "30100",
+        "addr:street": "Palackého náměstí",
+        "addr:streetnumber": "30",
+        "ref:ruian:addr": "72999225"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3721048,
+          49.7486793
+        ]
+      },
+      "id": "node/3035570187"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4056743497",
+        "addr:conscriptionnumber": "1666",
+        "addr:housenumber": "1666/41",
+        "addr:place": "Severní Předměstí",
+        "addr:postcode": "30100",
+        "addr:street": "Lochotínská",
+        "addr:streetnumber": "41",
+        "ref:ruian:addr": "74677951"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3725983,
+          49.7524133
+        ]
+      },
+      "id": "node/4056743497"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4381404217",
+        "addr:conscriptionnumber": "2983",
+        "addr:housenumber": "2983/20",
+        "addr:place": "Jižní Předměstí",
+        "addr:postcode": "30100",
+        "addr:street": "Rybářská",
+        "addr:streetnumber": "20",
+        "ref:ruian:addr": "75302322"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.365141,
+          49.7488365
+        ]
+      },
+      "id": "node/4381404217"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4448138772",
+        "addr:city": "Plzeň",
+        "addr:country": "CZ",
+        "addr:housenumber": "30",
+        "addr:postcode": "301 00",
+        "addr:street": "Palackého náměstí",
+        "addr:suburb": "Plzeň 3",
+        "amenity": "restaurant",
+        "email": "info@restauracezaoponou.cz",
+        "name": "Za oponou",
+        "opening_hours": "Mo-Su 11:00-24:00",
+        "phone": "+420 739 754 935",
+        "takeaway": "no",
+        "website": "http://www.restauracezaoponou.cz/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3722386,
+          49.7489442
+        ]
+      },
+      "id": "node/4448138772"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4826929069",
+        "addr:conscriptionnumber": "1677",
+        "addr:housenumber": "1677/10",
+        "addr:place": "Severní Předměstí",
+        "addr:postcode": "30100",
+        "addr:street": "Keřová",
+        "addr:streetnumber": "10",
+        "ref:ruian:addr": "76115496"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3732649,
+          49.7515846
+        ]
+      },
+      "id": "node/4826929069"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4882242181",
+        "addr:city": "Plzeň",
+        "addr:conscriptionnumber": "2861",
+        "addr:country": "CZ",
+        "addr:housenumber": "2861/2",
+        "addr:place": "Jižní Předměstí",
+        "addr:postcode": "30100",
+        "addr:street": "Radčická",
+        "addr:streetnumber": "2",
+        "addr:suburb": "Plzeň 3",
+        "amenity": "pharmacy",
+        "description": "-1. patro, u eskalátorů, po pravé straně",
+        "level": "0",
+        "name": "Dr.Max",
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "phone": "+420 377 227 651",
+        "ref:ruian:addr": "27289001",
+        "source:addr": "cuzk:ruian",
+        "website": "https://www.drmax.cz/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3693353,
+          49.7498031
+        ]
+      },
+      "id": "node/4882242181"
+    }
+  ]
+}
